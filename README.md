@@ -1,7 +1,7 @@
 # PDF Entity Extraction and Knowledge Graph Visualization using Python
 
 ## Project Description:
-This is an assignment project from Defectech company. 
+This is an assignment project from Defectech company. This project is completed by Jerrybritto Johnbritto.
 
 It demonstrates a Python-based pipeline to extract structured knowledge from unstructured PDF documents and visualize it as a knowledge graph (KG). Using Python, the system reads PDFs, identifies key entities such as people, emails, and organizations, and builds a graph representing relationships between them. The graph is dynamically laid out for readability, with organizations at the top, members below, and emails at the bottom. The largest organizations are placed first to prevent overlapping nodes.
 
